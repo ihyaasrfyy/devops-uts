@@ -1,0 +1,20 @@
+{
+  "name": "devops-uts",
+  "version": "1.0.0",
+  "description": "Repositori tugas uts mata kuliah Development Operation\r ## Fitur Login\r Menambahkan fitur login pengguna menggunakan form sederhana.\r # devops-uts\r Ini adalah aplikasi web untuk tugas DevOps. [Menambahkan ini untuk tes webhook.]",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihyaasrfyy/devops-uts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ihyaasrfyy/devops-uts/issues"
+  },
+  "homepage": "https://github.com/ihyaasrfyy/devops-uts#readme"
+}
